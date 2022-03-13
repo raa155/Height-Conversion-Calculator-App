@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Height Conversion Calculator</string>
+    <string name="app_title">Height Conversion Calculator</string>
+    <string name="input_conversion">Enter your height in cm or inches:</string>
+    <string name="inches_to_cm">Inches to Centimeters</string>
+    <string name="cm_to_inches">Centimeters to Inches</string>
+    <string name="round_to_nearest">Round up height ;)</string>
+    <string name="calculate_button">Calculate Height</string>
+    <string name="user_input_log">Result: %s</string>
+
+
+
+</resources>
